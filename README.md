@@ -6,13 +6,13 @@
 
 ---
 
-### Name: \<Enter your name>
+### Name: Zachary Grant
 
-### Email: \<Enter your OU email>
+### Email: zg130515@ohio.edu
 
-### GitHub Account: \<Enter your GitHub account name>
+### GitHub Account: zg130515
 
-### Programming Experience:
+### Programming Experience:I learned Java last semester through my intro class. Previously I had no knowledge of programming and I wasn't sure if it would be something I'm any good at.
 
 
 
